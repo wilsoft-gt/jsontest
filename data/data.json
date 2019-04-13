@@ -8,10 +8,9 @@
     },
     "anoter": {
         "title":"title2",
-        "description": "description 2",
-        "software": ["krita", "gimp"],
-        "tags": "tags2",
-        "art": "art2.jpg"
-
+        "description":"description2",
+        "software":["blender","gimp","krita"],
+        "tags":"tags2",
+        "art":"art2.jpg"
     }
 }
