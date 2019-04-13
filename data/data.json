@@ -1,0 +1,12 @@
+{
+    "number": {
+        "title":"title",
+        "description":"description",
+        "software":["blender","gimp","krita"],
+        "tags":"tags",
+        "art":"art.jpg"
+    },
+    "anoter": {
+        "title":"title2"
+    }
+}
