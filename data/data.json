@@ -9,7 +9,7 @@
     "anoter": {
         "title":"title2",
         "description":"description2",
-        "software":["blender","gimp","krita"],
+        "software":["gimp","krita"],
         "tags":"tags2",
         "art":"art2.jpg"
     }
