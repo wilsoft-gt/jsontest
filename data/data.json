@@ -1,16 +1,31 @@
 {
-    "number": {
-        "title":"title",
-        "description":"description",
-        "software":["blender","gimp","krita"],
-        "tags":["tags", "tags2"],
-        "art":"art.jpg"
-    },
-    "anoter": {
-        "title":"title2",
-        "description":"description2",
-        "software":["gimp","krita"],
-        "tags": ["tags2", "tags2.1"],
-        "art":"art2.jpg"
+    "id": {
+        "0001": {
+            "title": "title",
+            "description": "description",
+            "software": [
+                "blender",
+                "gimp",
+                "krita"
+            ],
+            "tags": [
+                "tags",
+                "tags2"
+            ],
+            "art": "art.jpg"
+        },
+        "0002": {
+            "title": "title2",
+            "description": "description2",
+            "software": [
+                "gimp",
+                "krita"
+            ],
+            "tags": [
+                "tags2",
+                "tags2.1"
+            ],
+            "art": "art2.jpg"
+        }
     }
 }
